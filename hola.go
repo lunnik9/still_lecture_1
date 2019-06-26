@@ -3,5 +3,5 @@ package awesomeProject
 import "fmt"
 
 func main(){
-	fmt.Println("hola")
+	fmt.Println("dobry ve4er")
 }
